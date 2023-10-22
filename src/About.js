@@ -4,11 +4,11 @@ const About = () => {
   return (
     <div className="section">
       <h2>About Me</h2>
-      <p>I am highly motivated BTech CSE student of VIT Vellore, with robust academic background </p>
-        <p>and versatile skill-set in programming and advanced technologies. My hands-on experience in design</p>
-       <p> and development of next generation software in the field of Data Analytics, AI, ML and IoT during </p>
-       <p> internships at C-DAC and Netmax Technologies, reflects my practical expertise. I have a track record </p>
-       <p> of successful projects, excelling in hackathons and exhibiting strong leadership</p>
+      <p>I amHighly motivated and enthusiastic 3rd-year BTech IT student with a strong passion for</p>
+        <p> technology and a desire to gain practical experience in the field. Looking forward to more</p>
+       <p> experiences that will demand the best of my ability in terms of technical and analytical skills, </p>
+       <p>  which will help me enhance my technical skills, contribute to real-world projects, and learn </p>
+       <p> from industry professionals.</p>
     </div>
   );
 };
